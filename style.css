@@ -1,0 +1,102 @@
+.fotogiu { 
+border-radius: 300%; 
+height: 300px;
+width: 300px;  
+display:block;
+margin-left: auto; 
+margin-right: auto; 
+border:solid white 8px;
+} 
+
+.cabeçalho {
+background-color:#3fa0eb; 
+padding-top: 2%; 
+padding-bottom: 2%;
+} 
+
+.texto-giu, #nome-idade {
+    display: inline-block;
+}
+
+
+.giuliana {
+font-size:35px;  
+
+} 
+.meu-texto {
+    font-size:25px; 
+  
+}
+.informações {
+    font-size:30px; 
+
+} 
+.celular {
+    font-size: 20px;  
+
+}   
+
+.container {
+    display: flex;  
+    justify-content: space-evenly;
+} 
+.texto-giu {
+   
+} 
+.nome-idade {
+
+} 
+.container2 {
+    display: flex; 
+    justify-content:space-evenly;
+} 
+
+.smart { background-color: rgb(221, 224, 240);
+display: flex;
+justify-content: space-around;
+}
+
+h1 {
+    text-align: end;
+    font-size: 150px; 
+    color: #3fa0eb;
+}
+.texto-estudante {
+   display: flex;
+   font-size: 20px; 
+    align-items: center;
+}
+
+.habilidades {
+    display: flex;
+    justify-content: space-around;
+} 
+.titulo2 {
+    font-size: 30px; 
+    text-align: center;
+}
+.titulo {
+    height: 500px; 
+    width: 400px;
+    background-color: #2d73a8;
+    font-size: 25px;
+} 
+.texto-em {
+    font-size: 30px; 
+    text-align: justify;
+} 
+
+.certificados {
+    display: flex;
+    justify-content: center; 
+}
+
+.imagens {
+    display: flex; 
+    justify-content: space-evenly;
+} 
+
+footer {
+    background-color: #3fa0eb;  
+    height: 100px;
+}
